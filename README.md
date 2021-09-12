@@ -1,4 +1,4 @@
-# A convolutional neural network to discover gravitational waves buried in detector noise
+# GWCNN: a convolutional neural network for time series analysis of gravitational waves
 
 Gravitational waves (GWs) are ripples in the spacetime fabric that are generated during some of the most extreme events that happen in the Universe, like the explosion of a supernova or the collision of black holes (BHs) and neutron stars. These waves travel through spacetime at the speed of light until they eventual reach the Earth. There are three sites on planet Earth where extremely sensitive detectors lie waiting for a GW to pass through them, reveling its passage: the two LIGO detector in Hanford and Livingston (USA) and the VIRGO detector near Pisa (Italy).
 
